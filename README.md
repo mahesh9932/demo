@@ -6,6 +6,6 @@ learning git!
 
 some description
 
-## local development
+## local development to setup
 
 open index.html in chrome
